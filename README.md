@@ -38,3 +38,9 @@ namespace AA
         }
     }
 }
+```
+### 형변환 하기
+1. (int)a
+2. (pi).ToString()
+3. int.Parse("32")
+4. float.Parse("3.14")
