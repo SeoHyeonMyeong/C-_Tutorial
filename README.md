@@ -7,7 +7,7 @@
 ### 최근 : https://blog.naver.com/einsbon/220973645616
 
 ### 시작 (Hello World)
-```csc
+```cs
 using System;
 
 namespace AA
