@@ -5,3 +5,20 @@
 ## .Net Freamwork
 
 ### 최근 : https://blog.naver.com/einsbon/220973645616
+
+### 시작 (Hello World)
+```csc
+using System;
+
+namespace AA
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("안녕 C#\n");
+        }
+    }
+}
+```
+  
