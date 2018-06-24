@@ -4,7 +4,7 @@
 
 ## .Net Freamwork
 
-### 최근 : https://blog.naver.com/einsbon/220973645616
+### 최근 : http://jeong-pro.tistory.com/category/C%23
 
 ### 시작 (Hello World)
 ```cs
