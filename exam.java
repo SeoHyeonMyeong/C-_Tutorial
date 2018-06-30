@@ -28,7 +28,7 @@ class Player
 	int Mp_increase;
 	int point;
 	int speed;
-	char[] name;
+	String name;
 	
 	public Player() {
 		Hp_Max = 50;
@@ -44,6 +44,6 @@ class Player
 		Mp_increase = 0;
 		point = 0;
 		speed = 250;
-		name = new char[] "유저";
+		name = "유저";
 	}
 }
