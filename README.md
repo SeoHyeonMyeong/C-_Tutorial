@@ -5,6 +5,7 @@
 ## .Net Freamwork
 ### Notepad++ : https://notepad-plus-plus.org/
 ### 최근 : http://jeong-pro.tistory.com/category/C%23
+### CS 강좌 : http://www.sqler.com/393896
 
 ### 시작 (Hello World)
 ```cs
